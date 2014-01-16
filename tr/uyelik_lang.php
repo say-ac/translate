@@ -25,3 +25,11 @@ $lang['uyelik_yeni_sifreniz_tekrar'] = 'Şifreniz (tekrar)';
 $lang['uyelik_yeni_sifreniz_tekrar_aciklama'] = 'Şifrenizi tekrar giriniz.';
 $lang['uyelik_yeni_nereden_duydunuz'] = 'Nerden Duydunuz';
 $lang['uyelik_yeni_nereden_duydunuz_aciklama'] = 'Ör: google, r10.net, zone.org, diğer (lütfen belirtiniz)';
+
+// şifremi unuttum sayfası
+$lang['uyelik_sifremi_unuttum_baslik'] = 'Şifremi Unuttum';
+$lang['uyelik_sifremi_unuttum_mail_adresiniz'] = 'Mail adresiniz';
+$lang['uyelik_sifremi_unuttum_mail_adresiniz_aciklama'] = 'Mail adresinizi giriniz.';
+$lang['uyelik_sifremi_unuttum_gonder'] = 'Gönder';
+$lang['uyelik_sifremi_unuttum_ya_da'] = 'ya da';
+$lang['uyelik_sifremi_unuttum_giris_yap'] = 'Giriş Yap';
