@@ -3,8 +3,8 @@
 // genel ifadeler
 $lang['genel_panel'] = 'Panel';
 $lang['genel_demo'] = 'Demo';
-$lang['genel_ilanlar'] = 'İlanlar';
-$lang['genel_sorular'] = 'Questions';
+$lang['genel_ilanlar'] = 'Classifieds';
+$lang['genel_sorular'] = 'Q & A';
 $lang['genel_host_rehberi'] = 'Host Guide';
 $lang['genel_dizin'] = 'Directory';
 $lang['genel_hakkinda'] = 'About';
