@@ -1,35 +1,37 @@
 <?php
 
 // üye giriş sayfası
-$lang['uyelik_giris_baslik'] = 'Üye Girişi';
-$lang['uyelik_giris_mail_adresiniz'] = 'Mail adresiniz';
-$lang['uyelik_giris_mail_adresiniz_aciklama'] = 'Mail adresinizi giriniz.';
-$lang['uyelik_giris_sifreniz'] = 'Şifreniz';
-$lang['uyelik_giris_sifreniz_aciklama'] = 'Lütfen şifrenizi giriniz.';
-$lang['uyelik_giris_beni_hatirla'] = 'Beni Hatırla';
-$lang['uyelik_giris_beni_hatirla_aciklama'] = 'Hesap güvenliğiniz için gerekmedikçe kullanmayınız.';
-$lang['uyelik_giris_giris_yap'] = 'Giriş yap';
-$lang['uyelik_giris_ya_da'] = 'ya da';
-$lang['uyelik_giris_sifremi_unuttum'] = 'Şifremi Unuttum';
+$lang['uyelik_giris_baslik'] = 'Sign in';
+$lang['uyelik_giris_mail_adresiniz'] = 'Mail address';
+$lang['uyelik_giris_mail_adresiniz_aciklama'] = 'Enter your mail address.';
+$lang['uyelik_giris_sifreniz'] = 'Password';
+$lang['uyelik_giris_sifreniz_aciklama'] = 'Please enter your password.';
+$lang['uyelik_giris_beni_hatirla'] = 'Remember me';
+$lang['uyelik_giris_beni_hatirla_aciklama'] = 'Unless use for your account security.';
+$lang['uyelik_giris_giris_yap'] = 'Sign in';
+$lang['uyelik_giris_ya_da'] = 'or';
+$lang['uyelik_giris_sifremi_unuttum'] = 'Forget your password';
 
 // yeni üyelik sayfası
-$lang['uyelik_yeni_baslik'] = 'Yeni Üyelik';
-$lang['uyelik_yeni_bilgi_mesaji'] = 'Üyeliğinizi onaylamanız için mail adresinize üyelik onaylama mesajı göndereceğiz. Lütfen mail adresinizi doğru girdiğinizden emin olunuz. Üyelik sürecinde sorun yaşarsanız iletişim formundan bize ulaşabilirsiniz.';
-$lang['uyelik_yeni_adiniz_ve_soyadiniz'] = 'Adınız ve Soyadınız';
-$lang['uyelik_yeni_adiniz_ve_soyadiniz_aciklama'] = 'Adınızı giriniz. Size isminiz ile hitap edeceğiz.';
-$lang['uyelik_yeni_mail_adresiniz'] = 'Mail Adresiniz';
-$lang['uyelik_yeni_mail_adresiniz_aciklama'] = 'Üyeliğinizi onaylamanız gerekecek. Lütfen geçerli bir mail adresi giriniz.';
-$lang['uyelik_yeni_sifreniz'] = 'Şifreniz';
-$lang['uyelik_yeni_sifreniz_aciklama'] = 'Şifrenizi giriniz.';
-$lang['uyelik_yeni_sifreniz_tekrar'] = 'Şifreniz (tekrar)';
-$lang['uyelik_yeni_sifreniz_tekrar_aciklama'] = 'Şifrenizi tekrar giriniz.';
-$lang['uyelik_yeni_nereden_duydunuz'] = 'Nerden Duydunuz';
-$lang['uyelik_yeni_nereden_duydunuz_aciklama'] = 'Ör: google, r10.net, zone.org, diğer (lütfen belirtiniz)';
+$lang['uyelik_yeni_baslik'] = 'New Membership';
+$lang['uyelik_yeni_bilgi_mesaji'] = 'We send you membership confirmation email. Therefore please make sure you enter right mail address. If you have problem with membership you can contact with us using contact form. ';
+
+$lang['uyelik_yeni_adiniz_ve_soyadiniz'] = 'Name and Surname';
+$lang['uyelik_yeni_adiniz_ve_soyadiniz_aciklama'] = 'Enter your name. We'll address you with your name.';
+$lang['uyelik_yeni_mail_adresiniz'] = 'Mail Address';
+$lang['uyelik_yeni_mail_adresiniz_aciklama'] = 'You will need to confirm your mail address. Please enter valid mail address. ';
+
+$lang['uyelik_yeni_sifreniz'] = 'Password';
+$lang['uyelik_yeni_sifreniz_aciklama'] = 'Enter your password.';
+$lang['uyelik_yeni_sifreniz_tekrar'] = 'Password (again)';
+$lang['uyelik_yeni_sifreniz_tekrar_aciklama'] = 'Enter your password again.';
+$lang['uyelik_yeni_nereden_duydunuz'] = 'Where did you hear.';
+$lang['uyelik_yeni_nereden_duydunuz_aciklama'] = 'Ex: google, r10.net, zone.org, other (please specify)';
 
 // şifremi unuttum sayfası
-$lang['uyelik_sifremi_unuttum_baslik'] = 'Şifremi Unuttum';
-$lang['uyelik_sifremi_unuttum_mail_adresiniz'] = 'Mail adresiniz';
-$lang['uyelik_sifremi_unuttum_mail_adresiniz_aciklama'] = 'Mail adresinizi giriniz.';
-$lang['uyelik_sifremi_unuttum_gonder'] = 'Gönder';
-$lang['uyelik_sifremi_unuttum_ya_da'] = 'ya da';
-$lang['uyelik_sifremi_unuttum_giris_yap'] = 'Giriş Yap';
+$lang['uyelik_sifremi_unuttum_baslik'] = 'Forget your password';
+$lang['uyelik_sifremi_unuttum_mail_adresiniz'] = 'Mail address';
+$lang['uyelik_sifremi_unuttum_mail_adresiniz_aciklama'] = 'Enter mail address.';
+$lang['uyelik_sifremi_unuttum_gonder'] = 'Send';
+$lang['uyelik_sifremi_unuttum_ya_da'] = 'or';
+$lang['uyelik_sifremi_unuttum_giris_yap'] = 'Sign in';
