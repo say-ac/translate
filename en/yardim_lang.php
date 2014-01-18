@@ -1,5 +1,5 @@
 <?php
 
-$lang['yardim_baslik'] = 'Yardım';
-$lang['yardim_tablo_baslik'] = 'Başlık';
-$lang['yardim_tablo_kategori'] = 'Kategori';
+$lang['yardim_baslik'] = 'Help';
+$lang['yardim_tablo_baslik'] = 'Title';
+$lang['yardim_tablo_kategori'] = 'Category';
