@@ -1,6 +1,11 @@
 <?php
 
 // ana sayfa
-$lang['ana_sayfa_ilanlar_aciklama'] = 'Alan adı, web sitesi, hosting, script vs. alım satımı yapabilirsiniz. İster ilanlara göz atabilir, isterseniz de yeni ilanlar ekleyebilirsiniz. İlanı ekleyen üyelere özel mesaj gönderebilir ya da ilanlara yorum yazabilirsiniz.';
-$lang['ana_sayfa_sorular_aciklama'] = 'Basit yapısı ile sorular sorabilir ve diğer üyelerin sorularına cevaplar verebilirsiniz. Takip ettiğiniz üyelerin sorularını bildirim olarak alırsınız. Paylaşım yaptığınızda sizi takip eden üyelere bildirim gönderilir.';
-$lang['ana_sayfa_host_rehberi_aciklama'] = 'Hosting ve sunucu hizmetleri alabileceğiniz firmaları görebilir, paket detaylarını inceleyebilir, karşılaştırma yaparak size en uygun paketleri alabilirsiniz. Eğer bir hosting firmasıysanız ise burada yer alabilirsiniz. ';
+$lang['ana_sayfa_ilanlar_aciklama'] = 'You can buy and sell your domain, web site, hosting, script etc. Whether you can browse ads or add new one. Also you can send private message to member who added to ads or you can comment their ads. ';
+
+
+
+$lang['ana_sayfa_sorular_aciklama'] = 'With simple question&answer system you can ask question other member of say.ac and answer their questions. You receive  notification of member\'s questions that you follow. If you ask question your members receive notofication. ';
+
+$lang['ana_sayfa_host_rehberi_aciklama'] = 'You can view hosting and server campanies, browse their packets and compare them. So you can choose best one for you. If you are a hosting company you can list your packets at hosting guide.';
+
