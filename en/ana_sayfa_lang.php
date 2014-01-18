@@ -1,7 +1,7 @@
 <?php
 
 // ana sayfa
-$lang['ana_sayfa_ilanlar_aciklama'] = 'You can buy and sell your domain, web site, hosting, script etc. Whether you can browse ads or add new one. Also you can send private message to member who added to ads or you can comment their ads. ';
+$lang['ana_sayfa_ilanlar_aciklama'] = 'You can buy and sell domains, web site, hosting, script etc. Whether you can browse ads or add new one. Also you can send private message to member who added to ads or you can comment their ads. ';
 
 
 
