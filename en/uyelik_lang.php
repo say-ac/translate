@@ -17,7 +17,7 @@ $lang['uyelik_yeni_baslik'] = 'New Membership';
 $lang['uyelik_yeni_bilgi_mesaji'] = 'We send you membership confirmation email. Therefore please make sure you enter right mail address. If you have problem with membership you can contact with us using contact form. ';
 
 $lang['uyelik_yeni_adiniz_ve_soyadiniz'] = 'Name and Surname';
-$lang['uyelik_yeni_adiniz_ve_soyadiniz_aciklama'] = 'Enter your name. We'll address you with your name.';
+$lang['uyelik_yeni_adiniz_ve_soyadiniz_aciklama'] = 'Enter your name. We\'ll address you with your name.';
 $lang['uyelik_yeni_mail_adresiniz'] = 'Mail Address';
 $lang['uyelik_yeni_mail_adresiniz_aciklama'] = 'You will need to confirm your mail address. Please enter valid mail address. ';
 
