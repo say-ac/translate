@@ -6,7 +6,6 @@ $lang['ilanlar_bilgi'] = 'İlanlarda sunucu zamanı dikkate alınmaktadır. Sunu
 $lang['ilanlar_kategoriler'] = 'Kategoriler';
 $lang['ilanlar_tablo_ekleyen'] = 'Ekleyen';
 $lang['ilanlar_tablo_baslik'] = 'Başlık';
-$lang['ilanlar_one_cikan'] = 'öne çıkan';
 
 // 1 yorum
 $lang['ilanlar_yorum'] = 'yorum';

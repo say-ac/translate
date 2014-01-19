@@ -6,7 +6,6 @@ $lang['ilanlar_bilgi'] = 'At the classifieds, server time is considered. You can
 $lang['ilanlar_kategoriler'] = 'Categories';
 $lang['ilanlar_tablo_ekleyen'] = 'Submitted by';
 $lang['ilanlar_tablo_baslik'] = 'Title';
-$lang['ilanlar_one_cikan'] = 'Featured';
 
 // 1 yorum
 $lang['ilanlar_yorum'] = 'comment';

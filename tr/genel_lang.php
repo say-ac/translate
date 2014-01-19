@@ -4,6 +4,7 @@
 $lang['genel_panel'] = 'Panel';
 $lang['genel_demo'] = 'Demo';
 $lang['genel_ilanlar'] = 'İlanlar';
+$lang['genel_ilan_ekle'] = 'İlan Ekle';
 $lang['genel_sorular'] = 'Sorular';
 $lang['genel_host_rehberi'] = 'Host Rehberi';
 $lang['genel_dizin'] = 'Dizin';
@@ -35,6 +36,8 @@ $lang['genel_sorular_cevaplar'] = 'Sorular & Cevaplar';
 $lang['genel_devam_et'] = 'Devam et';
 $lang['genel_slogan1'] = 'Sosyal Webmaster Platformu';
 $lang['genel_slogan1_aciklama'] = 'Webmaster Dünyası\'nı bir araya getiriyoruz. Web sitelerinize ait ziyaretçileri analiz ediyor ve raporlar sunuyoruz. Böylece hedef kitlenizi daha iyi anlayabilir ve çalışmalarınızı daha doğru yapabilirsiniz. ';
+$lang['genel_one_cikan'] = 'öne çıkan';
+$lang['genel_ya_da'] = 'ya da';
 
 // aylar
 $lang['genel_ay_0'] = 'Ocak';

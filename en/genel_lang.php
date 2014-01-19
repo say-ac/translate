@@ -4,6 +4,7 @@
 $lang['genel_panel'] = 'Panel';
 $lang['genel_demo'] = 'Demo';
 $lang['genel_ilanlar'] = 'Classifieds';
+$lang['genel_ilan_ekle'] = 'Create Your Listing';
 $lang['genel_sorular'] = 'Q & A';
 $lang['genel_host_rehberi'] = 'Host Guide';
 $lang['genel_dizin'] = 'Directory';
@@ -35,6 +36,8 @@ $lang['genel_sorular_cevaplar'] = 'Questions & Answers';
 $lang['genel_devam_et'] = 'Continue';
 $lang['genel_slogan1'] = 'Social Webmaster Platform';
 $lang['genel_slogan1_aciklama'] = 'We bring together the Webmaster World. We analyze your website visitors and submit reports. So you can better understand your target audience and you can make your work more accurate.';
+$lang['genel_one_cikan'] = 'featured';
+$lang['genel_ya_da'] = 'or';
 
 // aylar
 $lang['genel_ay_0'] = 'January';

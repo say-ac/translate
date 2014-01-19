@@ -9,8 +9,9 @@ $lang['uyelik_giris_sifreniz_aciklama'] = 'Lütfen şifrenizi giriniz.';
 $lang['uyelik_giris_beni_hatirla'] = 'Beni Hatırla';
 $lang['uyelik_giris_beni_hatirla_aciklama'] = 'Hesap güvenliğiniz için gerekmedikçe kullanmayınız.';
 $lang['uyelik_giris_giris_yap'] = 'Giriş yap';
-$lang['uyelik_giris_ya_da'] = 'ya da';
 $lang['uyelik_giris_sifremi_unuttum'] = 'Şifremi Unuttum';
+$lang['uyelik_giris_meta_aciklama'] = 'Say.ac\'a üye giriş yapmak için bu adresi kullanabilirsiniz.';
+$lang['uyelik_giris_ikaz1'] = 'Beni hatırla dediğiniz için otomatik olarak yeniden giriş yaptınız.';
 
 // yeni üyelik sayfası
 $lang['uyelik_yeni_baslik'] = 'Yeni Üyelik';
@@ -31,5 +32,11 @@ $lang['uyelik_sifremi_unuttum_baslik'] = 'Şifremi Unuttum';
 $lang['uyelik_sifremi_unuttum_mail_adresiniz'] = 'Mail adresiniz';
 $lang['uyelik_sifremi_unuttum_mail_adresiniz_aciklama'] = 'Mail adresinizi giriniz.';
 $lang['uyelik_sifremi_unuttum_gonder'] = 'Gönder';
-$lang['uyelik_sifremi_unuttum_ya_da'] = 'ya da';
 $lang['uyelik_sifremi_unuttum_giris_yap'] = 'Giriş Yap';
+
+// üyelik genel hataları
+$lang['uyelik_hata1'] = 'Mail adresinizi yazınız.';
+$lang['uyelik_hata2'] = 'Lütfen geçerli bir mail adresi yazınız.';
+$lang['uyelik_hata3'] = 'Lütfen şifrenizi giriniz.';
+$lang['uyelik_hata4'] = 'Bilgileri hatalı girdiniz, lütfen yeniden deneyiniz.';
+$lang['uyelik_hata5'] = 'Bilgileri hatalı girdiniz, lütfen yeniden deneyiniz.';
