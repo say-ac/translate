@@ -26,6 +26,8 @@ $lang['uyelik_yeni_sifreniz_tekrar'] = 'Password (again)';
 $lang['uyelik_yeni_sifreniz_tekrar_aciklama'] = 'Enter your password again.';
 $lang['uyelik_yeni_nereden_duydunuz'] = 'Where did you hear.';
 $lang['uyelik_yeni_nereden_duydunuz_aciklama'] = 'Ex: google, r10.net, zone.org, other (please specify)';
+$lang['uyelik_yeni_meta_baslik'] = 'New Membership';
+$lang['uyelik_yeni_meta_aciklama'] = 'Say.ac\a üye olmak için bu sayfayı kullanabilirsiniz.';
 
 // şifremi unuttum sayfası
 $lang['uyelik_sifremi_unuttum_baslik'] = 'Forget your password';
@@ -39,4 +41,7 @@ $lang['uyelik_hata1'] = 'Mail adresinizi yazınız.';
 $lang['uyelik_hata2'] = 'Lütfen geçerli bir mail adresi yazınız.';
 $lang['uyelik_hata3'] = 'Lütfen şifrenizi giriniz.';
 $lang['uyelik_hata4'] = 'Bilgileri hatalı girdiniz, lütfen yeniden deneyiniz.';
-$lang['uyelik_hata5'] = 'Bilgileri hatalı girdiniz, lütfen yeniden deneyiniz.';
+$lang['uyelik_hata6'] = 'Lütfen adınızı ve soyadınızı giriniz.';
+$lang['uyelik_hata7'] = 'Mail adresi ile daha önce üye olmak istemişsiniz. Lütfen mail adresinize gönderdiğimiz mesajdaki üyelik onaylama bağlantısına tıklayınız.';
+$lang['uyelik_hata8'] = 'Daha önce üye olmuşsunuz. Lütfen sisteme giriş yapmayı deneyiniz.';
+$lang['uyelik_hata9'] = 'Şifre ile şifre tekrar aynısı olmalıdır.';

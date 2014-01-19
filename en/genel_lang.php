@@ -38,6 +38,12 @@ $lang['genel_slogan1'] = 'Social Webmaster Platform';
 $lang['genel_slogan1_aciklama'] = 'We bring together the Webmaster World. We analyze your website visitors and submit reports. So you can better understand your target audience and you can make your work more accurate.';
 $lang['genel_one_cikan'] = 'featured';
 $lang['genel_ya_da'] = 'or';
+$lang['genel_sabit'] = 'sticky';
+$lang['genel_cevap'] = 'answer';
+$lang['genel_cevaplar'] = 'answers';
+$lang['genel_hit'] = 'view';
+$lang['genel_hitler'] = 'views';
+$lang['genel_gonder'] = 'Send';
 
 // aylar
 $lang['genel_ay_0'] = 'January';

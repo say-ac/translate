@@ -38,6 +38,12 @@ $lang['genel_slogan1'] = 'Sosyal Webmaster Platformu';
 $lang['genel_slogan1_aciklama'] = 'Webmaster Dünyası\'nı bir araya getiriyoruz. Web sitelerinize ait ziyaretçileri analiz ediyor ve raporlar sunuyoruz. Böylece hedef kitlenizi daha iyi anlayabilir ve çalışmalarınızı daha doğru yapabilirsiniz. ';
 $lang['genel_one_cikan'] = 'öne çıkan';
 $lang['genel_ya_da'] = 'ya da';
+$lang['genel_sabit'] = 'sabit';
+$lang['genel_cevap'] = 'cevap';
+$lang['genel_cevaplar'] = 'cevap';
+$lang['genel_hit'] = 'hit';
+$lang['genel_hitler'] = 'hit';
+$lang['genel_gonder'] = 'Gönder';
 
 // aylar
 $lang['genel_ay_0'] = 'Ocak';
