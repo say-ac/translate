@@ -1,9 +1,9 @@
 <?php
 
-$lang['sorular_meta_baslik'] = 'Questions & Answers';
+$lang['sorular_meta_baslik'] = 'Sorular & Cevaplar';
 $lang['sorular_meta_aciklama'] = 'Webmaster olarak aklınıza takılan soruları sorabilir, sorulan sorulara cevaplar verebilirsiniz.';
 
-$lang['sorular_baslik'] = 'Questions & Answers';
+$lang['sorular_baslik'] = 'Sorular & Cevaplar';
 $lang['sorular_tablo_baslik'] = 'Soru Başlığı';
 $lang['sorular_yeni_soru'] = 'Yeni Soru';
 

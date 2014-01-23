@@ -11,3 +11,9 @@ $lang['ilanlar_meta_aciklama'] = 'Site, alanadı gibi ilanlar ekleyebilir ya da 
 // bilgi mesajları
 $lang['ilanlar_bilgi1'] = 'Gösterilecek ilan bulunamadı.';
 $lang['ilanlar_bilgi2'] = 'At the classifieds, server time is considered. You can see the server time at he bottom of the page.';
+
+// yorum bilgi mesajları
+$lang['ilanlar_yorum_bilgi1'] = 'Henüz yorum eklenmemiş.';
+
+// resim bilgi mesajları
+$lang['ilanlar_resim_bilgi1'] = 'Henüz resim yüklememişsiniz. Yeni resim yükleyebilirsiniz.';

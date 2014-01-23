@@ -5,7 +5,6 @@ $lang['genel_panel'] = 'Panel';
 $lang['genel_demo'] = 'Demo';
 $lang['genel_ilanlar'] = 'İlanlar';
 $lang['genel_ilan_ekle'] = 'İlan Ekle';
-$lang['genel_sorular'] = 'Sorular';
 $lang['genel_host_rehberi'] = 'Host Rehberi';
 $lang['genel_dizin'] = 'Dizin';
 $lang['genel_hakkinda'] = 'Hakkında';
@@ -17,6 +16,9 @@ $lang['genel_geri_bildirim'] = 'Geri Bildirim';
 $lang['genel_iletisim'] = 'İletişim';
 $lang['genel_yardim'] = 'Yardım';
 $lang['genel_siteler'] = 'Siteler';
+$lang['genel_blog'] = 'Blog';
+$lang['genel_saygilarimizla'] = 'Saygılarımızla';
+$lang['genel_site_ekle'] = 'Site Ekle';
 $lang['genel_mesaj_kutusu'] = 'Mesaj Kutusu';
 $lang['genel_gelen_kutusu'] = 'Gelen kutusu';
 $lang['genel_giden_kutusu'] = 'Giden kutusu';
@@ -31,7 +33,10 @@ $lang['genel_cikis'] = 'Çıkış';
 $lang['genel_baglantilar'] = 'Bağlantılar';
 $lang['genel_sosyal_medya'] = 'Sosyal Medya';
 $lang['genel_bagis_kutusu'] = 'Bağış Kutusu';
+$lang['genel_kullanici_sozlesmesi'] = 'Kullanıcı Sözleşmesi';
 $lang['genel_sunucu_zamani'] = 'Sunucu zamanı';
+$lang['genel_online'] = 'Online';
+$lang['genel_navigasyon'] = 'Navigasyon';
 $lang['genel_sorular_cevaplar'] = 'Sorular & Cevaplar';
 $lang['genel_devam_et'] = 'Devam et';
 $lang['genel_one_cikan'] = 'öne çıkan';
@@ -55,6 +60,10 @@ $lang['genel_kapat'] = 'Kapat';
 $lang['genel_detay'] = 'Detay';
 $lang['genel_yorum'] = 'yorum';
 $lang['genel_yorumlar'] = 'yorum';
+$lang['genel_sil'] = 'Sil';
+
+// paypal ile bağış yapma sayfası için
+$lang['genel_dil1'] = 'en_US';
 
 // aylar
 $lang['genel_ay_0'] = 'Ocak';
