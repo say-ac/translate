@@ -61,6 +61,7 @@ $lang['genel_detay'] = 'Detay';
 $lang['genel_yorum'] = 'yorum';
 $lang['genel_yorumlar'] = 'yorum';
 $lang['genel_sil'] = 'Sil';
+$lang['genel_etiketler'] = 'Etiketler';
 
 // paypal ile bağış yapma sayfası için
 $lang['genel_dil1'] = 'en_US';
