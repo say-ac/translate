@@ -40,6 +40,7 @@ $lang['genel_navigasyon'] = 'Navigasyon';
 $lang['genel_sorular_cevaplar'] = 'Sorular & Cevaplar';
 $lang['genel_devam_et'] = 'Devam et';
 $lang['genel_one_cikan'] = 'öne çıkan';
+$lang['genel_one_cikar'] = 'Öne Çıkar';
 $lang['genel_ya_da'] = 'ya da';
 $lang['genel_sabit'] = 'sabit';
 $lang['genel_cevap'] = 'cevap';
@@ -62,6 +63,8 @@ $lang['genel_yorum'] = 'yorum';
 $lang['genel_yorumlar'] = 'yorum';
 $lang['genel_sil'] = 'Sil';
 $lang['genel_etiketler'] = 'Etiketler';
+$lang['genel_var'] = 'Var';
+$lang['genel_yok'] = 'Yok';
 
 // paypal ile bağış yapma sayfası için
 $lang['genel_dil1'] = 'en_US';
